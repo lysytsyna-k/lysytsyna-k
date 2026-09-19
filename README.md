@@ -1,23 +1,24 @@
-# Hi, I'm Kateryna
+# Kateryna Lysytsyna
 
-I'm an MS Data Science student at Northeastern University with a background in education and linguistics.
+**MS Data Science @ Northeastern University**  
+Data Analytics · Statistical Modeling · Data Engineering · Applied Machine Learning
 
-I’m interested in data analytics, statistical modeling, data engineering, and applied machine learning. I especially enjoy projects where I can take messy real-world data, structure it, analyze it, and turn the results into something useful.
+Background in education and linguistics. I enjoy working with real-world data from raw data preparation through analysis, modeling, and visualization.
 
 ## Featured Projects
 
-### Treatment Outcomes and Risk Analysis in Acute Ischemic Stroke
-Statistical analysis of randomized clinical trial data in R, including treatment effects, confidence intervals, factorial treatment analysis, logistic regression, and Tableau visualization.
-
-### Expense Analytics Pipeline
-End-to-end analytics pipeline using Python, SQLite, MySQL, MongoDB, R, and Power BI, from raw CSV ingestion through data modeling and dashboarding.
-
-### Clinical Trial Eligibility NER
-Named entity recognition for clinical trial eligibility criteria using LLM prompting, model evaluation, and error analysis.
+| Project | Focus | Tech |
+| --- | --- | --- |
+| [**Stroke Treatment Outcomes**](https://github.com/lysytsyna-k/stroke-treatment-outcomes) | Randomized clinical trial analysis, treatment effects, factorial interactions, statistical modeling | R · Statistics · Tableau |
+| [**Expense Analytics Pipeline**](https://github.com/lysytsyna-k/expense-analytics-pipeline) | End-to-end analytics pipeline from raw files to databases and BI reporting | Python · SQL · MySQL · MongoDB · Power BI |
+| [**Clinical Trial Eligibility NER**](https://github.com/lysytsyna-k/NER_Clinical_Trial_Eligibility) | NER for clinical-trial eligibility criteria, LLM evaluation, and error analysis | Python · NLP · LLMs |
 
 ## Tools
 
-Python · R · SQL · MySQL · SQLite · MongoDB · Power BI · Tableau · Git · GitHub
+**Languages:** Python · R · SQL  
+**Data:** MySQL · SQLite · MongoDB · Snowflake  
+**Visualization:** Power BI · Tableau  
+**Other:** Git · GitHub
 
 <!--
 **lysytsyna-k/lysytsyna-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
